@@ -1,7 +1,7 @@
 ### Hi there, my name is Jônatas 👋
 
 - 👯 Estou procurando colaborar em projetos de desenvolvimento front-end
-- 🌱 Atualmente estou aprendendo Vue.js
+- 🌱 Atualmente estou aprendendo React
 - 😄 Pronomes: Ele/Dele
 
 <a href="https://github.com/jonatasgdec/github-readme-stats">
