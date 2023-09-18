@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/j%C3%B4natas-carvalho-jgc07022003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/anaduart/anaduart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jonatasgdec/jonatasgdec/blob/output/github-contribution-grid-snake.svg)
