@@ -30,7 +30,7 @@
   <a href = "mailto:jonatas.07022003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%B4natas-carvalho-jgc07022003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/jonatasgdec/jonatasgdec/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JonatasGdeC/jonatasgdec/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
