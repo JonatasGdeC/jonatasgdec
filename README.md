@@ -1,5 +1,7 @@
 ### Hi there, my name is Jônatas 👋
 
+Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento, principalmente relacionado ao front-end. Atualmente, estou estudando Desenvolvimento de Software Multiplataforma na Fatec Mauá, buscando aprimorar meus conhecimentos e habilidades nessa área em constante evolução. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
+
 - 👯 Estou procurando colaborar em projetos de desenvolvimento front-end
 - 🌱 Atualmente estou aprendendo React
 - 😄 Pronomes: Ele/Dele
