@@ -1,6 +1,6 @@
 ### Hi there, my name is Jônatas 👋
 
-Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
+Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento de software. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
 
 - 🌱 Atualmente estou aprendendo React
 
