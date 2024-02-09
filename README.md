@@ -2,7 +2,7 @@
 
 Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento de software. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
 
-- 🌱 Atualmente estou aprendendo React
+- 🌱 Atualmente estou aprendendo React e Typescript
 
 <a href="https://github.com/jonatasgdec/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
@@ -17,11 +17,9 @@ Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos c
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /> 
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />        
-  <img align="center" alt="GULP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 ##
