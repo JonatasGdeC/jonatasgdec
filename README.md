@@ -8,7 +8,7 @@ Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos c
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
 </a>
 <a href="https://github.com/jonatasgdec/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasgdec&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasgdec&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
 
 ##
