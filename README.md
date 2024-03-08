@@ -2,8 +2,6 @@
 
 Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento de software. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
 
-- 🌱 Atualmente estou aprendendo React e Typescript
-
 <a href="https://github.com/jonatasgdec/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
 </a>
