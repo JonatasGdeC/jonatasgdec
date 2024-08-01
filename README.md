@@ -28,4 +28,5 @@ Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos c
   <a href="https://www.linkedin.com/in/jonatasgdec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=jonatasgdec)
 
