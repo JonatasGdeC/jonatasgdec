@@ -2,12 +2,14 @@
 
 Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento de software. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
 
-<a href="https://github.com/jonatasgdec/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
-</a>
-<a href="https://github.com/jonatasgdec/convoychat">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasgdec&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
-</a>
+<div style="display: flex;">
+  <a href="https://github.com/jonatasgdec/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
+  </a>
+  <a href="https://github.com/jonatasgdec/convoychat">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasgdec&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
+  </a>
+</div>
 
 ##
 <div style="display: inline_block"><br>
