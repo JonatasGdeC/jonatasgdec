@@ -11,9 +11,8 @@ Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos c
   </a>
 </div>
 
-###
+
 <img src="https://raw.githubusercontent.com/JonatasGdeC/JonatasGdeC/output/snake.svg" alt="Snake animation" />
-###
 
 ##
 <div style="display: inline_block"><br>
