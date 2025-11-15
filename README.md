@@ -1,16 +1,6 @@
 ### Hi there, my name is Jônatas 👋
 
-Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos com a programação, o que despertou em mim o interesse em migrar para a área de desenvolvimento de software. Estou animado com as possibilidades que essa carreira pode oferecer e comprometido em me dedicar ao máximo para alcançar meus objetivos profissionais.
-
-<div style="display: flex;">
-  <a href="https://github.com/jonatasgdec/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasgdec&theme=highcontrast" />
-  </a>
-  <a href="https://github.com/jonatasgdec/convoychat">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasgdec&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
-  </a>
-</div>
-
+Desenvolvedor Frontend com experiência em criação de interfaces responsivas, acessíveis e performáticas. Atuo na integração com APIs, otimização de Core Web Vitals, implementação de boas práticas de código e colaboração com times de Design e Backend.
 
 ##
 <div style="display: inline_block"><br>
@@ -19,8 +9,6 @@ Técnico em mecatrônica onde tive a oportunidade de ter os primeiros contatos c
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Blazor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
 </div>
 
