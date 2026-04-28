@@ -4,8 +4,6 @@ Desenvolvedor Fullstack com foco em .NET e Blazor, atuando no desenvolvimento de
 
 Tenho experiência na criação de sistemas web performáticos e responsivos, com atenção a boas práticas, organização de código e experiência do usuário. Atuo diretamente com integração de APIs REST, tratamento de dados e otimização de performance (Core Web Vitals).
 
-No dia a dia, utilizo ferramentas de IA para acelerar o desenvolvimento, auxiliar no debugging e explorar soluções mais eficientes, sempre com análise crítica e validação do código gerado.
-
 ---
 
 ### 🚀 Tech Stack
