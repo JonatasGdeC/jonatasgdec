@@ -6,7 +6,6 @@ Desenvolvedor Full Stack .NET com experiência profissional no desenvolvimento d
 
 Tenho experiência com aplicações web focadas em performance, usabilidade e organização de código, aplicando boas práticas de desenvolvimento, arquitetura em camadas e princípios como SOLID e Clean Architecture.
 
----
 
 ## 🚀 Tech Stack
 
@@ -31,7 +30,6 @@ Tenho experiência com aplicações web focadas em performance, usabilidade e or
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
 
 ## 📫 Contact
 
