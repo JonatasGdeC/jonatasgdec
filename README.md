@@ -33,30 +33,6 @@ Tenho experiência com aplicações web focadas em performance, usabilidade e or
 
 ---
 
-## 💼 Professional Experience
-
-### 🇵🇹 Zeemob (formerly Bitcube) — Portugal
-**Junior .NET Developer**
-
-- Desenvolvimento de aplicações web com **Blazor (WebAssembly & Server)**
-- Evolução de sistemas internos (**CRM/ERP**) e website institucional
-- Construção de componentes reutilizáveis e interfaces modernas
-- Integração com APIs REST e manipulação de dados
-- Foco em performance, usabilidade e boas práticas de desenvolvimento
-
----
-
-## 📚 Currently Learning
-
-- ASP.NET Core APIs
-- Clean Architecture
-- SOLID & DDD
-- Unit & Integration Testing
-- Azure & Deploy
-- Full Stack .NET ecosystem
-
----
-
 ## 📫 Contact
 
 <div> 
