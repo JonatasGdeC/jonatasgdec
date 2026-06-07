@@ -1,10 +1,8 @@
 # Hi there, I'm Jônatas 👋
 
-## Desenvolvedor .NET Full Stack Júnior
+Sou Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistemas web utilizando C#, .NET e Blazor. Atuei na evolução de sistemas CRM e ERP para o setor imobiliário, desenvolvendo interfaces modernas, APIs REST e integrações com banco de dados, sempre com foco em performance, usabilidade e boas práticas de desenvolvimento.
 
-Desenvolvedor Full Stack .NET com experiência profissional no desenvolvimento de sistemas web utilizando **Blazor, .NET e C#**. Atuação na construção de interfaces modernas e responsivas, desenvolvimento de APIs REST e evolução de sistemas internos (CRM/ERP) voltados ao setor imobiliário.
-
-Tenho experiência com aplicações web focadas em performance, usabilidade e organização de código, aplicando boas práticas de desenvolvimento, arquitetura em camadas e princípios como SOLID e Clean Architecture.
+Possuo interesse em arquitetura de software, cloud computing e tecnologias do ecossistema Microsoft, buscando continuamente aprimorar conhecimentos em desenvolvimento de aplicações escaláveis e de alta qualidade.
 
 
 ## 🚀 Tech Stack
