@@ -25,15 +25,6 @@ Sou Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistema
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonatasGdeC&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasGdeC&layout=compact&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonatasGdeC&theme=radical&hide_border=true" />
-</div>
-
 ## 📫 Contact
 <div>
   <a href="https://jonatasgdec-portfolio.vercel.app/" target="_blank">
