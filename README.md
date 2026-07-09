@@ -1,14 +1,14 @@
 # Hi there, I'm Jônatas 👋
-
 Sou Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistemas web utilizando C#, .NET, Blazor e React. Possuo interesse em arquitetura de software, cloud computing e tecnologias do ecossistema Microsoft, buscando continuamente aprimorar conhecimentos em desenvolvimento de aplicações escaláveis e de alta qualidade.
 
 ## 🚀 Tech Stack
-
 ### Backend
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-68217A?style=for-the-badge)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
 ### Frontend
 ![Blazor](https://img.shields.io/badge/-Blazor-5C2D91?style=for-the-badge&logo=blazor)
@@ -21,14 +21,21 @@ Sou Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistema
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonatasGdeC&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasGdeC&layout=compact&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonatasGdeC&theme=radical&hide_border=true" />
+</div>
 
 ## 📫 Contact
-<div> 
+<div>
   <a href="https://jonatasgdec-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
