@@ -36,7 +36,7 @@ Sou Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistema
   <a href="mailto:jonatasgdec@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://wa.me/5511971271858](https://api.whatsapp.com/send/?phone=5511971271858&text=Ol%C3%A1%20J%C3%B4natas!%20Vi%20seu%20github%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade.&type=phone_number&app_absent=0)" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5511971271858&text=Ol%C3%A1%20J%C3%B4natas!%20Vi%20seu%20github%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade.&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
